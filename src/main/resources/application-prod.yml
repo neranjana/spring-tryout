@@ -1,0 +1,14 @@
+my:
+  properties:
+    first: my property first value dev
+    cityList:
+      - Melbourne
+      - London-prod
+    homeAddress:
+      streetNumber: 10
+      streetName: Collins Street-prod
+      city: Melbourne
+    workAddress:
+      streetNumber: 11
+      streetName: Spencer Street-prod
+      city: Melbourne
